@@ -1,3 +1,1 @@
-lib/tree-sitter/**
-lib/tree-sitter-cpp/**
 cmake-build-debug/
