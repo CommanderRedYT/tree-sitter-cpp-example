@@ -1,4 +1,5 @@
 #include <cstring>
+#include <cstdio>
 
 extern "C" {
 #include "tree_sitter/api.h"
